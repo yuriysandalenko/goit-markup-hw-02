@@ -99,7 +99,7 @@ background-color: #404bbf;
     background-color: #f4f4fd;";
 }
 .title-specialist-h3 {
-    
+        text-transform: capitalize;
         font-size: 20px;
         line-height: 1.2;
         letter-spacing: 0.02em;
