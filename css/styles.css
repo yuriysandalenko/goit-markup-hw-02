@@ -99,25 +99,25 @@ background-color: #404bbf;
     background-color:#fff;
 }
 .title-specialist {
-        text-transform: capitalize;
-        font-weight: 500
-        font-size: 20px;
-        line-height: 1.2;
-        letter-spacing: 0.02em;
-        text-align: center;
-        color: #2e2f42;
+text-transform: capitalize;
+font-weight: 500
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
 }
 
 .specialist-item {
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        text-align: center;
-        color: #434455;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+text-align: center;
+color: #434455;
 }
 
-.name-team {
-background-color: #fff;
+.section-team {
+background-color: #F4F4FD
 }
 
 .title-portfolio {
@@ -142,8 +142,8 @@ background-color: #fff;
     color: #f4f4fd;
 }
 .footer-text {
-    font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #f4f4fd;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #f4f4fd;
 }
