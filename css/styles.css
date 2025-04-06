@@ -1,6 +1,6 @@
 body {
     font-family: "Roboto", sans-serif;
-    color: #2e2f42;
+    color: #434455;
     background-color: #fff;
 }
 ul, ol {
@@ -69,17 +69,19 @@ a {
 }
 .main-but:hover,
 .main-but:focus {
-#404bbf;
+background-color: #404bbf;
 }
 .title-h2 {
+    
     font-size: 36px;
-     line-height: 1.11;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
 }
 
 .strategy-item-h3 {
+    font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
         letter-spacing: 0.02em;
@@ -114,9 +116,6 @@ a {
 }
 
 .name-team {
-    
-width: 264px;
-height: 380px;
 background-color: #fff;
 }
 
