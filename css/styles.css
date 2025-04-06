@@ -71,8 +71,8 @@ a {
 .main-but:focus {
 background-color: #404bbf;
 }
-.title-h2 {
-    
+.title-team {
+    text-transform: capitalize
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
@@ -95,11 +95,12 @@ background-color: #404bbf;
         color: #434455;
 }
 
-.section-team {
-    background-color: #f4f4fd;";
+.develop-photo {
+    background-color:#fff;
 }
-.title-specialist-h3 {
+.title-specialist {
         text-transform: capitalize;
+        font-weight: 500
         font-size: 20px;
         line-height: 1.2;
         letter-spacing: 0.02em;
@@ -119,7 +120,9 @@ background-color: #404bbf;
 background-color: #fff;
 }
 
-.title-h3-portfolio {
+.title-portfolio {
+    text-transform: capitalize
+    font-weight: 500
     font-size: 20px;
         line-height: 1.2;
         letter-spacing: 0.02em;
